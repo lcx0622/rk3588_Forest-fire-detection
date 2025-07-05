@@ -1,0 +1,35 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+logs
+dataloader
+**/image
+**/data
+**/hymenoptera_data
+**/logs_relu
+**/maxpool_logs
+**/model
+**/*.jpg
+**/*.JPG
+**/*.jpeg
+**/*.JPEG
+**/*.png
+**/*.PNG
+**/*.bmp
+**/*.BMP
+**/*.tif
+**/*.xml
+**/*.pth
+**/*.pkl
+**/*.tar
+**/*.zip
+**/*.state
+**/*.DS_Store
+**/*.rknn
+**/*.mp4
+**/*__pycache__
