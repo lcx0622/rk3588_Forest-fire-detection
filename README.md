@@ -35,13 +35,13 @@
 
 （在这里附上一些项目运行的效果图或 GIF，这能非常直观地展示您的项目成果）
 
-**图片检测效果:**
-![火灾检测示例图](https://path.to/your/detection_result_image.jpg)
-_图 1: 在森林航拍图像中检测到火焰_
+**火焰分割效果:**
+![火灾分割示例图](https://github.com/lcx0622/rk3588_Forest-fire-detection/blob/main/other/unet.gif)
+_图 1: 在森林航拍图像中分割到火焰_
 
-**视频检测效果:**
-![火灾检测GIF](https://path.to/your/detection_result.gif)
-_图 2: 实时检测视频流中的火灾和烟雾_
+**火焰检测效果:**
+![火灾检测示例图](https://github.com/lcx0622/rk3588_Forest-fire-detection/blob/main/other/yolo.gif)
+_图 2: 在森林航拍图像中检测到火焰_
 
 ## 环境配置与安装
 
